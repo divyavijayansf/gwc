@@ -1,0 +1,11 @@
+    public static void updateconphone(){
+        map<id,account> accMap=new map<id,account>();
+        list<account> accList = new list<account>();
+        Account acc=new account();
+        acc.Name='divya';
+        acc.Phone='908765434678';
+        accmap.put(acc.id,acc);
+        accList.add(acc);
+        update acc;
+        
+    }
